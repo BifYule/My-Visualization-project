@@ -1,0 +1,322 @@
+<head>
+  <style> body { margin: 0; } </style>
+
+  
+  <script src="//unpkg.com/three"></script>
+  <script src="//unpkg.com/3d-force-graph"></script>
+  <script src="/js/d3.v4.min.js"></script>
+  <script src="//unpkg.com/three/examples/js/renderers/CSS2DRenderer.js"></script>
+  <!-- <script src="../../dist/3d-force-graph.js"></script> -->
+
+
+
+</head>
+
+<body>
+<!--<div style="width:100%;height:20px;background-color:black;font-size:15px;line-height:20px;">-->
+<!--    <a href="/Movie_character_relation"><div>返回</div></a>-->
+<!--  </div>-->
+
+  <div id="3d-graph" >
+  </div>
+
+
+  <script>
+
+    d3.json("/data/data.json",function(data){
+
+        const elem = document.getElementById('3d-graph');
+    
+        const imgs = ['tonys.svg', 'rhody.svg', 'hawke.svg', 'stever.svg', 'falcon.svg', 'nickf.svg', 'blackw.svg', 'bruceb.svg', 'vision.svg', 'wandam.svg', 'pietrom.svg', 'ultronu.svg', 'wolfgangv.svg', 'helenc.svg', 'mariah.svg', 'ultrons.svg', 'peggyc.svg', 'thor.svg', 'heimdall.svg', 'madameb.svg', 'laurab.svg', 'ulyssesk.svg', 'list.svg', 'pepperp.svg', 'happyh.svg', 'christinee.svg', 'yinsen.svg', 'philc.svg', 'obadiahs.svg', 'raza.svg', 'abub.svg', 'bettyr.svg', 'thunderboltr.svg', 'emilb.svg', 'samuels.svg', 'leonards.svg', 'howardso.svg', 'whiplash.svg', 'justinh.svg', 'stern.svg', 'antonvo.svg', 'loki.svg', 'odin.svg', 'frigga.svg', 'sif.svg', 'volstagg.svg', 'hogun.svg', 'fandral.svg', 'janef.svg', 'darcyl.svg', 'eriks.svg', 'laufey.svg', 'destroyer.svg', 'jaspers.svg', 'bucky.svg', 'dumdum.svg', 'gabej.svg', 'jimm.svg', 'jamesm.svg', 'chesterp.svg', 'abrahame.svg', 'johanns.svg', 'arnimz.svg', 'chitauri.svg', 'other.svg', 'thanos.svg', 'aldrichk.svg', 'mayah.svg', 'trevors.svg', 'erics.svg', 'ellenb.svg', 'harleyk.svg', 'jackt.svg', 'matthewe.svg', 'malekith.svg', 'algrim.svg', 'darkelf.svg', 'asgardian.svg', 'bor.svg', 'alexanderp.svg', 'brockr.svg', 'jackr.svg', 'sharonc.svg', 'georgesb.svg', 'collector.svg', 'peterq.svg', 'gamora.svg', 'drax.svg', 'rocket.svg', 'groota.svg', 'yonduu.svg', 'nebula.svg', 'ronan.svg', 'korath.svg', 'rhomannd.svg', 'garthans.svg', 'iranir.svg', 'novac.svg', 'meredithq.svg', 'kraglino.svg', 'cosmo.svg', 'carina.svg', 'howardd.svg', 'scottl.svg', 'hankp.svg', 'hopev.svg', 'darrenc.svg', 'maggiel.svg', 'cassiel.svg', 'luis.svg', 'kurt.svg', 'dave.svg', 'marias.svg', 'tchalla.svg', 'helmutz.svg', 'peterp.svg', 'mayp.svg', 'tchaka.svg', 'everettr.svg', 'stephens.svg', 'anciento.svg', 'karlm.svg', 'kaecilius.svg', 'christinep.svg', 'wong.svg', 'hamir.svg', 'jonathanp.svg', 'dormammu.svg', 'mantis.svg', 'ayesha.svg', 'ego.svg', 'taserf.svg', 'stakaro.svg', 'martinex.svg', 'krugarr.svg', 'charlie.svg', 'aletao.svg', 'mainf.svg', 'nedl.svg', 'michellej.svg', 'lizt.svg', 'eugenet.svg', 'bettyb.svg', 'adriant.svg', 'aarond.svg', 'jacksonb.svg', 'hermans.svg', 'phineasm.svg', 'macg.svg', 'principalm.svg', 'annem.svg', 'hela.svg', 'skurge.svg', 'valk.svg', 'grandm.svg', 'topaz.svg', 'korg.svg', 'miek.svg', 'surtur.svg', 'fenris.svg', 'erikk.svg', 'shuri.svg', 'nakia.svg', 'okoye.svg', 'ramonda.svg', 'wkabi.svg', 'mbaku.svg', 'zuri.svg', 'njobu.svg', 'miningt.svg', 'rivert.svg', 'bordert.svg', 'merchantt.svg', 'midnightp.svg', 'corviusg.svg', 'ebonym.svg', 'obsidianc.svg', 'outrider.svg', 'ironl.svg', 'jacksonn.svg', 'jarvis.svg', 'stanlee.svg'];
+        const GROUPS = 12;
+        const relation_types = {friend:1,enemy:2,work:3,love:4,creation:5,family:6}
+        
+        const gData = {
+          nodes: imgs.map((img, id) => ({ id, img ,relation: relation_types[data['links'][id]['relation']]})),
+          links: [...Array(data['links'].length).keys()]
+            .filter(id => id)
+            .map(id => ({
+              source: data['links'][id]['source'],
+              target: data['links'][id]['target'],
+            }))
+        };
+            
+
+        //天空盒六面
+        var urls = [            
+					'/cube-image/marvel_right1.png',
+					'/cube-image/marvel_left2.png',
+					'/cube-image/marvel_top3.png',
+					'/cube-image/marvel_bottom4.png',
+					'/cube-image/marvel_front5.png',
+					'/cube-image/marvel_back6.png'
+				];
+
+        gData.links.forEach(link => {
+        const a = gData.nodes[link.source];
+        const b = gData.nodes[link.target];
+        !a.neighbors && (a.neighbors = []);
+        !b.neighbors && (b.neighbors = []);
+        a.neighbors.push(b);
+        b.neighbors.push(a);
+
+        !a.links && (a.links = []);
+        !b.links && (b.links = []);
+        a.links.push(link);
+        b.links.push(link);
+      });
+
+
+        const highlightNodes = new Set();
+        const highlightLinks = new Set();
+        let hoverNode = null;
+
+
+        const Graph = ForceGraph3D()
+          (elem)
+            .nodeLabel(node=>{ return imgs[node.id].slice(0,-4) })      //将名字与节点相绑定
+             
+            .onNodeClick(node => {  //点击后聚焦节点
+              // Aim at node from outside it
+              const distance = 70;
+              const distRatio = 1 + distance/Math.hypot(node.x, node.y, node.z);
+
+              const newPos = node.x || node.y || node.z
+                ? { x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio }
+                : { x: 0, y: 0, z: distance }; // special case if node is in (0,0,0)
+
+              Graph.cameraPosition(
+                newPos, // new position
+                node, // lookAt ({ x, y, z })
+                2000  // ms transition duration
+              );
+            })
+            .nodeThreeObject(({ img }) => {       //将图片与节点绑定
+            const imgTexture = new THREE.TextureLoader().load(`/imgs/${img}`);
+            const material = new THREE.SpriteMaterial({ map: imgTexture });
+            const sprite = new THREE.Sprite(material);
+            sprite.scale.set(12, 12);
+            return sprite;
+          })
+
+          .onNodeDragEnd(node => { //拖动后不动
+            node.fx = node.x;
+            node.fy = node.y;
+            node.fz = node.z;
+          })
+
+          .linkAutoColorBy(d => gData.nodes[d.source].relation)  //根据节点关系来显示边的颜色
+          .linkOpacity(0.4)
+
+          .graphData(gData)         //导入数据
+
+          //.nodeColor(node => highlightNodes.has(node) ? node === hoverNode ? 'rgb(255,0,0,1)' : 'rgba(255,160,0,0.8)' : 'rgba(0,255,255,0.6)')
+          .linkWidth(link => highlightLinks.has(link) ? 2 : 1)
+          .linkDirectionalParticles(link => highlightLinks.has(link) ? 2 : 0)
+          .linkDirectionalParticleWidth(2)
+          .onNodeHover(node => {
+            // no state change
+            if ((!node && !highlightNodes.size) || (node && hoverNode === node)) return;
+
+            highlightNodes.clear();
+            highlightLinks.clear();
+            if (node) {
+              highlightNodes.add(node);
+              node.neighbors.forEach(neighbor => highlightNodes.add(neighbor));
+              node.links.forEach(link => highlightLinks.add(link));
+            }
+
+            hoverNode = node || null;
+
+            updateHighlight();
+          })
+          .onLinkHover(link => {
+            highlightNodes.clear();
+            highlightLinks.clear();
+
+            if (link) {
+              highlightLinks.add(link);
+              highlightNodes.add(link.source);
+              highlightNodes.add(link.target);
+            }
+
+            updateHighlight();
+          });
+
+
+
+          function updateHighlight() {
+          // trigger update of highlighted objects in scene
+          Graph
+            .nodeColor(Graph.nodeColor())
+            .linkWidth(Graph.linkWidth())
+            .linkDirectionalParticles(Graph.linkDirectionalParticles());
+        }
+          var cubeLoader = new THREE.CubeTextureLoader();
+          Graph.scene().background = cubeLoader.load(urls);   //天空盒
+
+
+          });
+
+
+
+ 
+
+  </script>
+</body>
+
+
+
+<!-- <head>
+  <style> body { margin: 0; } </style>
+
+  
+  <script src="//unpkg.com/three"></script>
+  <script src="//unpkg.com/3d-force-graph"></script>
+  <script src="src/d3.v4.min.js"></script>
+  //<script src="../../dist/3d-force-graph.js"></script>
+</head>
+
+<body>
+
+    <div style="background-color: 12233a;">
+      <input style="width: 100px;height:25px;margin: 0;background-color: d5dde9;" id="aaa" >
+    </div>
+ 
+  <div id="3d-graph"> </div>
+  
+  <script>
+
+    d3.json("data/test.json",function(data){
+        var json_data = data['links'];
+
+        const elem = document.getElementById('3d-graph');
+    
+        const imgs = ['abub.svg','adriant.svg','aldrichk.svg','aletao.svg','alexanderp.svg'];
+        const gData = {
+          nodes: imgs.map((img, id) => ({ id, img })),
+          links: [...Array(json_data.length).keys()]
+            .filter(id => id)
+            .map(id => ({
+              source: json_data[id]['source'],
+              target: json_data[id]['target'],
+              
+            }))
+        };
+            
+
+        //天空盒六面
+        var urls = [            
+					'cube-image/marvel_right1.png',
+					'cube-image/marvel_left2.png',
+					'cube-image/marvel_top3.png',
+					'cube-image/marvel_bottom4.png',
+					'cube-image/marvel_front5.png',
+					'cube-image/marvel_back6.png'
+				];
+
+        const Graph = ForceGraph3D()
+          (elem)
+            .onNodeClick(node => {
+              // Aim at node from outside it
+              const distance = 70;
+              const distRatio = 1 + distance/Math.hypot(node.x, node.y, node.z);
+
+              const newPos = node.x || node.y || node.z
+                ? { x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio }
+                : { x: 0, y: 0, z: distance }; // special case if node is in (0,0,0)
+
+              Graph.cameraPosition(
+                newPos, // new position
+                node, // lookAt ({ x, y, z })
+                2000  // ms transition duration
+              );
+            })
+            .nodeThreeObject(({ img }) => {
+            const imgTexture = new THREE.TextureLoader().load(`./imgs/${img}`);
+            const material = new THREE.SpriteMaterial({ map: imgTexture });
+            const sprite = new THREE.Sprite(material);
+            sprite.scale.set(12, 12);
+            return sprite;
+          })
+          .graphData(gData);
+          // .cooldownTicks(100)
+      
+          Graph.onEngineStop(() => Graph.zoomToFit(400));
+          //Graph.renderer.setSize(window.innerWidth, window.innerHeight);
+          var cubeLoader = new THREE.CubeTextureLoader();
+          Graph.scene().background = cubeLoader.load(urls);   //天空盒
+          
+
+          });
+
+
+
+  </script>
+</body> -->
+
+
+<!-- <head>
+  <style> body { margin: 0; } </style>
+
+  
+  <script src="//unpkg.com/three"></script>
+  <script src="//unpkg.com/3d-force-graph"></script>
+  <script src="src/d3.v4.min.js"></script>
+  //<script src="../../dist/3d-force-graph.js"></script>
+</head>
+
+<body>
+  <div id="3d-graph"></div>
+
+  <script>
+    var json_data;
+    d3.json("data/test.json",function(data){
+            json_data = data['links'];
+        });
+
+    const elem = document.getElementById('3d-graph');
+
+    const imgs = ['abub.svg','adriant.svg','aldrichk.svg','aletao.svg','alexanderp.svg'];
+    const gData = {
+      nodes: imgs.map((img, id) => ({ id, img })),
+      links: [...Array(imgs.length).keys()]
+        .filter(id => id)
+        .map(id => ({
+          source: id,
+          target: Math.round(Math.random() * (id-1)),
+          
+        }))
+    };
+    var s = gData.nodes;
+
+        
+
+    const Graph = ForceGraph3D()
+      (elem)
+        .onNodeClick(node => {
+          // Aim at node from outside it
+          const distance = 40;
+          const distRatio = 1 + distance/Math.hypot(node.x, node.y, node.z);
+
+          const newPos = node.x || node.y || node.z
+            ? { x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio }
+            : { x: 0, y: 0, z: distance }; // special case if node is in (0,0,0)
+
+          Graph.cameraPosition(
+            newPos, // new position
+            node, // lookAt ({ x, y, z })
+            3000  // ms transition duration
+          );
+        })
+        .nodeThreeObject(({ img }) => {
+        const imgTexture = new THREE.TextureLoader().load(`./imgs/${img}`);
+        const material = new THREE.SpriteMaterial({ map: imgTexture });
+        const sprite = new THREE.Sprite(material);
+        sprite.scale.set(12, 12);
+        return sprite;
+      })
+      .graphData(gData);
+
+  </script>
+</body> -->

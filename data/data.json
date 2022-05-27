@@ -1,0 +1,6868 @@
+{
+    "links":[
+        {
+            "source": 0,
+            "target": 1,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 8,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 9,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 10,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 11,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 12,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 13,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 0,
+            "target": 14,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 0,
+            "target": 15,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 1,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 16,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 17,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 9,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 10,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 11,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 15,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 12,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 8,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 7,
+            "target": 2,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 7,
+            "target": 4,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 7,
+            "target": 17,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 7,
+            "target": 5,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 7,
+            "target": 11,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 7,
+            "target": 12,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 7,
+            "target": 15,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 2,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 4,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 4,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 5,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 6,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 8,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 9,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 10,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 11,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 12,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 15,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 6,
+            "target": 2,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 6,
+            "target": 4,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 6,
+            "target": 9,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 10,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 11,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 12,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 15,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 19,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 1,
+            "target": 9,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 11,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 15,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 2,
+            "target": 10,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 2,
+            "target": 11,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 2,
+            "target": 12,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 2,
+            "target": 15,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 2,
+            "target": 20,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 5,
+            "target": 14,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 5,
+            "target": 15,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 4,
+            "target": 14,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 8,
+            "target": 15,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 9,
+            "target": 12,
+            "value": 5,
+            "relation": "creation"
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 10,
+            "target": 12,
+            "value": 5,
+            "relation": "creation"
+        },
+        {
+            "source": 11,
+            "target": 12,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 11,
+            "target": 13,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 11,
+            "target": 15,
+            "value": 5,
+            "relation": "creation"
+        },
+        {
+            "source": 11,
+            "target": 21,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 12,
+            "target": 22,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 0,
+            "target": 17,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 23,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 0,
+            "target": 24,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 25,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 0,
+            "target": 26,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 27,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 28,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 29,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 30,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 23,
+            "target": 1,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 28,
+            "target": 29,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 29,
+            "target": 30,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 7,
+            "target": 31,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 7,
+            "target": 32,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 7,
+            "target": 33,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 7,
+            "target": 34,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 7,
+            "target": 35,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 31,
+            "target": 32,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 31,
+            "target": 34,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 31,
+            "target": 35,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 32,
+            "target": 34,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 32,
+            "target": 35,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 33,
+            "target": 34,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 32,
+            "target": 0,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 23,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 0,
+            "target": 24,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 36,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 0,
+            "target": 25,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 27,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 37,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 38,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 0,
+            "target": 39,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 23,
+            "target": 1,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 23,
+            "target": 37,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 23,
+            "target": 38,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 23,
+            "target": 6,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 24,
+            "target": 1,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 24,
+            "target": 37,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 24,
+            "target": 6,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 1,
+            "target": 37,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 38,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 39,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 36,
+            "target": 40,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 25,
+            "target": 38,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 27,
+            "target": 5,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 27,
+            "target": 6,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 37,
+            "target": 40,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 37,
+            "target": 38,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 37,
+            "target": 6,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 41,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 42,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 17,
+            "target": 43,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 44,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 45,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 46,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 47,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 48,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 17,
+            "target": 49,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 50,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 51,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 52,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 2,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 27,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 41,
+            "target": 42,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 41,
+            "target": 43,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 41,
+            "target": 18,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 44,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 45,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 46,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 47,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 50,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 41,
+            "target": 51,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 41,
+            "target": 52,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 42,
+            "target": 43,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 42,
+            "target": 18,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 42,
+            "target": 44,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 42,
+            "target": 45,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 42,
+            "target": 46,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 42,
+            "target": 47,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 42,
+            "target": 51,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 42,
+            "target": 52,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 18,
+            "target": 44,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 18,
+            "target": 45,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 18,
+            "target": 46,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 18,
+            "target": 47,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 18,
+            "target": 51,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 44,
+            "target": 45,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 44,
+            "target": 46,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 44,
+            "target": 47,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 44,
+            "target": 48,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 44,
+            "target": 52,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 45,
+            "target": 46,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 45,
+            "target": 47,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 45,
+            "target": 48,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 45,
+            "target": 52,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 46,
+            "target": 47,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 46,
+            "target": 48,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 46,
+            "target": 52,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 47,
+            "target": 48,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 47,
+            "target": 52,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 44,
+            "target": 51,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 45,
+            "target": 51,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 46,
+            "target": 51,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 47,
+            "target": 51,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 48,
+            "target": 49,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 48,
+            "target": 50,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 48,
+            "target": 52,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 48,
+            "target": 27,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 49,
+            "target": 50,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 49,
+            "target": 52,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 50,
+            "target": 52,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 50,
+            "target": 27,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 50,
+            "target": 5,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 52,
+            "target": 53,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 52,
+            "target": 27,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 2,
+            "target": 53,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 2,
+            "target": 27,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 53,
+            "target": 27,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 53,
+            "target": 5,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 27,
+            "target": 5,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 3,
+            "target": 54,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 55,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 3,
+            "target": 56,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 3,
+            "target": 57,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 3,
+            "target": 58,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 3,
+            "target": 16,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 3,
+            "target": 59,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 3,
+            "target": 60,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 61,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 62,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 54,
+            "target": 55,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 54,
+            "target": 56,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 54,
+            "target": 57,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 54,
+            "target": 58,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 54,
+            "target": 16,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 54,
+            "target": 59,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 54,
+            "target": 61,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 54,
+            "target": 62,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 55,
+            "target": 56,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 55,
+            "target": 57,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 55,
+            "target": 58,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 55,
+            "target": 16,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 55,
+            "target": 59,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 55,
+            "target": 61,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 56,
+            "target": 57,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 56,
+            "target": 58,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 56,
+            "target": 16,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 56,
+            "target": 59,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 56,
+            "target": 61,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 57,
+            "target": 58,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 57,
+            "target": 16,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 57,
+            "target": 59,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 57,
+            "target": 61,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 58,
+            "target": 16,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 58,
+            "target": 59,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 58,
+            "target": 61,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 16,
+            "target": 59,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 16,
+            "target": 60,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 16,
+            "target": 61,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 16,
+            "target": 62,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 59,
+            "target": 60,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 59,
+            "target": 61,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 59,
+            "target": 62,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 60,
+            "target": 61,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 60,
+            "target": 62,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 61,
+            "target": 62,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 0,
+            "target": 23,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 0,
+            "target": 27,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 17,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 41,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 63,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 23,
+            "target": 27,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 27,
+            "target": 5,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 27,
+            "target": 6,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 27,
+            "target": 17,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 27,
+            "target": 41,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 27,
+            "target": 50,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 27,
+            "target": 2,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 27,
+            "target": 14,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 5,
+            "target": 17,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 5,
+            "target": 41,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 5,
+            "target": 50,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 5,
+            "target": 2,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 5,
+            "target": 3,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 5,
+            "target": 14,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 6,
+            "target": 17,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 6,
+            "target": 41,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 50,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 6,
+            "target": 2,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 6,
+            "target": 3,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 6,
+            "target": 14,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 6,
+            "target": 63,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 7,
+            "target": 17,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 7,
+            "target": 41,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 7,
+            "target": 2,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 7,
+            "target": 63,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 41,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 17,
+            "target": 50,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 2,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 17,
+            "target": 3,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 17,
+            "target": 63,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 50,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 41,
+            "target": 2,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 3,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 14,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 63,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 41,
+            "target": 64,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 41,
+            "target": 65,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 50,
+            "target": 2,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 2,
+            "target": 14,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 2,
+            "target": 63,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 63,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 63,
+            "target": 64,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 63,
+            "target": 65,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 64,
+            "target": 65,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 0,
+            "target": 23,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 0,
+            "target": 24,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 1,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 26,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 0,
+            "target": 66,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 67,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 0,
+            "target": 68,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 69,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 70,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 71,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 23,
+            "target": 1,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 23,
+            "target": 66,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 23,
+            "target": 67,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 24,
+            "target": 1,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 24,
+            "target": 69,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 24,
+            "target": 72,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 66,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 73,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 66,
+            "target": 67,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 66,
+            "target": 68,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 66,
+            "target": 69,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 66,
+            "target": 70,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 66,
+            "target": 72,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 66,
+            "target": 73,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 68,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 67,
+            "target": 69,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 67,
+            "target": 70,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 67,
+            "target": 72,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 68,
+            "target": 69,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 68,
+            "target": 73,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 69,
+            "target": 70,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 69,
+            "target": 72,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 69,
+            "target": 73,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 69,
+            "target": 71,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 70,
+            "target": 72,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 70,
+            "target": 71,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 41,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 17,
+            "target": 42,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 17,
+            "target": 43,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 44,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 45,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 46,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 47,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 48,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 17,
+            "target": 49,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 50,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 74,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 75,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 76,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 17,
+            "target": 78,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 41,
+            "target": 42,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 41,
+            "target": 43,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 41,
+            "target": 18,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 44,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 45,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 46,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 47,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 48,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 74,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 75,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 76,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 42,
+            "target": 43,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 42,
+            "target": 18,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 42,
+            "target": 44,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 42,
+            "target": 45,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 42,
+            "target": 46,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 42,
+            "target": 47,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 42,
+            "target": 74,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 42,
+            "target": 75,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 42,
+            "target": 76,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 42,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 42,
+            "target": 78,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 43,
+            "target": 18,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 43,
+            "target": 44,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 43,
+            "target": 45,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 43,
+            "target": 46,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 43,
+            "target": 47,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 43,
+            "target": 48,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 43,
+            "target": 74,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 43,
+            "target": 75,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 43,
+            "target": 76,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 43,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 43,
+            "target": 78,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 18,
+            "target": 44,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 18,
+            "target": 45,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 18,
+            "target": 46,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 18,
+            "target": 47,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 18,
+            "target": 74,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 18,
+            "target": 75,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 18,
+            "target": 76,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 18,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 44,
+            "target": 45,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 44,
+            "target": 46,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 44,
+            "target": 47,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 44,
+            "target": 48,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 44,
+            "target": 74,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 44,
+            "target": 75,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 44,
+            "target": 76,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 44,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 45,
+            "target": 46,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 45,
+            "target": 47,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 45,
+            "target": 48,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 45,
+            "target": 74,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 45,
+            "target": 75,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 45,
+            "target": 76,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 45,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 46,
+            "target": 47,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 46,
+            "target": 48,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 46,
+            "target": 74,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 46,
+            "target": 75,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 46,
+            "target": 76,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 46,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 47,
+            "target": 48,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 47,
+            "target": 74,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 47,
+            "target": 75,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 47,
+            "target": 76,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 47,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 48,
+            "target": 49,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 48,
+            "target": 50,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 48,
+            "target": 74,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 48,
+            "target": 75,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 48,
+            "target": 76,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 49,
+            "target": 50,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 49,
+            "target": 74,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 49,
+            "target": 76,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 50,
+            "target": 74,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 50,
+            "target": 76,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 74,
+            "target": 75,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 74,
+            "target": 76,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 74,
+            "target": 77,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 74,
+            "target": 78,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 75,
+            "target": 76,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 75,
+            "target": 77,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 75,
+            "target": 78,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 76,
+            "target": 77,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 76,
+            "target": 78,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 77,
+            "target": 78,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 3,
+            "target": 54,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 16,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 62,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 79,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 14,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 80,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 81,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 82,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 83,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 53,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 54,
+            "target": 4,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 54,
+            "target": 5,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 54,
+            "target": 6,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 54,
+            "target": 79,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 54,
+            "target": 14,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 54,
+            "target": 53,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 4,
+            "target": 79,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 4,
+            "target": 14,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 4,
+            "target": 80,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 4,
+            "target": 53,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 16,
+            "target": 82,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 5,
+            "target": 79,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 5,
+            "target": 14,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 5,
+            "target": 82,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 6,
+            "target": 62,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 79,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 14,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 6,
+            "target": 80,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 81,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 83,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 53,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 39,
+            "target": 53,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 62,
+            "target": 79,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 79,
+            "target": 80,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 79,
+            "target": 81,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 79,
+            "target": 82,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 79,
+            "target": 53,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 80,
+            "target": 81,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 80,
+            "target": 82,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 80,
+            "target": 83,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 81,
+            "target": 82,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 81,
+            "target": 83,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 83,
+            "target": 53,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 44,
+            "target": 84,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 45,
+            "target": 84,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 85,
+            "target": 86,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 85,
+            "target": 87,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 85,
+            "target": 88,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 85,
+            "target": 89,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 85,
+            "target": 90,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 85,
+            "target": 91,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 85,
+            "target": 92,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 85,
+            "target": 93,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 85,
+            "target": 84,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 85,
+            "target": 94,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 85,
+            "target": 95,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 85,
+            "target": 96,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 85,
+            "target": 97,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 85,
+            "target": 98,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 85,
+            "target": 99,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 86,
+            "target": 87,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 86,
+            "target": 88,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 86,
+            "target": 89,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 86,
+            "target": 90,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 86,
+            "target": 91,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 86,
+            "target": 92,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 86,
+            "target": 65,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 86,
+            "target": 93,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 86,
+            "target": 84,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 86,
+            "target": 94,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 86,
+            "target": 95,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 86,
+            "target": 96,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 86,
+            "target": 97,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 86,
+            "target": 99,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 87,
+            "target": 88,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 87,
+            "target": 89,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 87,
+            "target": 90,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 87,
+            "target": 91,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 87,
+            "target": 92,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 87,
+            "target": 65,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 87,
+            "target": 93,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 87,
+            "target": 84,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 87,
+            "target": 94,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 87,
+            "target": 95,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 87,
+            "target": 96,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 87,
+            "target": 97,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 87,
+            "target": 99,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 88,
+            "target": 89,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 88,
+            "target": 90,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 88,
+            "target": 91,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 88,
+            "target": 92,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 88,
+            "target": 93,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 88,
+            "target": 84,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 88,
+            "target": 94,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 88,
+            "target": 95,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 88,
+            "target": 96,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 88,
+            "target": 97,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 88,
+            "target": 99,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 88,
+            "target": 100,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 89,
+            "target": 90,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 89,
+            "target": 91,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 89,
+            "target": 92,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 89,
+            "target": 93,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 89,
+            "target": 84,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 89,
+            "target": 94,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 89,
+            "target": 95,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 89,
+            "target": 96,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 89,
+            "target": 97,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 89,
+            "target": 99,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 90,
+            "target": 92,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 90,
+            "target": 94,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 90,
+            "target": 95,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 90,
+            "target": 96,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 90,
+            "target": 97,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 90,
+            "target": 99,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 91,
+            "target": 92,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 91,
+            "target": 65,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 91,
+            "target": 93,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 92,
+            "target": 64,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 92,
+            "target": 65,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 92,
+            "target": 93,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 92,
+            "target": 94,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 92,
+            "target": 95,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 92,
+            "target": 96,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 92,
+            "target": 97,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 92,
+            "target": 99,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 64,
+            "target": 65,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 84,
+            "target": 101,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 84,
+            "target": 102,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 84,
+            "target": 100,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 94,
+            "target": 95,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 94,
+            "target": 96,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 94,
+            "target": 97,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 94,
+            "target": 99,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 95,
+            "target": 96,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 95,
+            "target": 97,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 95,
+            "target": 99,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 96,
+            "target": 97,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 96,
+            "target": 99,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 97,
+            "target": 99,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 103,
+            "target": 104,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 103,
+            "target": 105,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 103,
+            "target": 106,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 103,
+            "target": 4,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 103,
+            "target": 107,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 103,
+            "target": 108,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 103,
+            "target": 109,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 103,
+            "target": 110,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 103,
+            "target": 111,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 104,
+            "target": 105,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 104,
+            "target": 106,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 104,
+            "target": 109,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 104,
+            "target": 110,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 104,
+            "target": 111,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 104,
+            "target": 36,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 104,
+            "target": 16,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 105,
+            "target": 106,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 105,
+            "target": 109,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 105,
+            "target": 110,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 105,
+            "target": 111,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 106,
+            "target": 108,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 106,
+            "target": 109,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 106,
+            "target": 110,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 106,
+            "target": 111,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 107,
+            "target": 108,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 109,
+            "target": 110,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 109,
+            "target": 111,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 110,
+            "target": 111,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 54,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 36,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 0,
+            "target": 112,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 32,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 113,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 0,
+            "target": 114,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 9,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 8,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 103,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 115,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 0,
+            "target": 116,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 32,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 54,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 113,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 1,
+            "target": 114,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 9,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 1,
+            "target": 103,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 1,
+            "target": 115,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 36,
+            "target": 112,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 36,
+            "target": 54,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 112,
+            "target": 54,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 2,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 32,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 6,
+            "target": 3,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 6,
+            "target": 54,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 4,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 80,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 113,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 6,
+            "target": 117,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 6,
+            "target": 114,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 9,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 6,
+            "target": 103,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 6,
+            "target": 115,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 2,
+            "target": 54,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 2,
+            "target": 113,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 2,
+            "target": 114,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 2,
+            "target": 103,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 2,
+            "target": 115,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 32,
+            "target": 3,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 32,
+            "target": 54,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 32,
+            "target": 4,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 32,
+            "target": 82,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 32,
+            "target": 118,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 32,
+            "target": 114,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 32,
+            "target": 9,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 32,
+            "target": 8,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 3,
+            "target": 54,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 80,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 82,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 3,
+            "target": 113,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 118,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 114,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 9,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 8,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 3,
+            "target": 103,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 3,
+            "target": 115,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 54,
+            "target": 4,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 54,
+            "target": 82,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 54,
+            "target": 113,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 54,
+            "target": 118,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 54,
+            "target": 9,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 54,
+            "target": 8,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 54,
+            "target": 103,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 54,
+            "target": 115,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 4,
+            "target": 80,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 4,
+            "target": 82,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 4,
+            "target": 113,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 4,
+            "target": 118,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 4,
+            "target": 114,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 4,
+            "target": 9,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 4,
+            "target": 8,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 4,
+            "target": 103,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 4,
+            "target": 115,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 54,
+            "target": 114,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 80,
+            "target": 9,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 82,
+            "target": 118,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 113,
+            "target": 117,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 113,
+            "target": 114,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 113,
+            "target": 9,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 113,
+            "target": 8,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 113,
+            "target": 103,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 113,
+            "target": 115,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 118,
+            "target": 114,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 114,
+            "target": 9,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 114,
+            "target": 8,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 9,
+            "target": 103,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 9,
+            "target": 115,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 8,
+            "target": 103,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 8,
+            "target": 115,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 103,
+            "target": 115,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 115,
+            "target": 116,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 119,
+            "target": 120,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 119,
+            "target": 121,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 119,
+            "target": 122,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 119,
+            "target": 123,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 119,
+            "target": 124,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 119,
+            "target": 125,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 119,
+            "target": 126,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 119,
+            "target": 127,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 119,
+            "target": 17,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 120,
+            "target": 121,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 120,
+            "target": 122,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 120,
+            "target": 124,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 120,
+            "target": 125,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 120,
+            "target": 126,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 120,
+            "target": 127,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 121,
+            "target": 122,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 121,
+            "target": 124,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 121,
+            "target": 125,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 121,
+            "target": 126,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 121,
+            "target": 127,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 122,
+            "target": 124,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 122,
+            "target": 127,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 124,
+            "target": 125,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 124,
+            "target": 127,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 125,
+            "target": 127,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 85,
+            "target": 86,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 85,
+            "target": 87,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 85,
+            "target": 88,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 85,
+            "target": 89,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 85,
+            "target": 90,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 85,
+            "target": 91,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 85,
+            "target": 98,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 85,
+            "target": 99,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 85,
+            "target": 128,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 85,
+            "target": 129,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 85,
+            "target": 130,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 86,
+            "target": 87,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 86,
+            "target": 88,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 86,
+            "target": 89,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 86,
+            "target": 90,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 86,
+            "target": 91,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 86,
+            "target": 99,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 86,
+            "target": 128,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 86,
+            "target": 129,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 86,
+            "target": 130,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 87,
+            "target": 88,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 87,
+            "target": 89,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 87,
+            "target": 90,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 87,
+            "target": 91,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 87,
+            "target": 99,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 87,
+            "target": 128,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 87,
+            "target": 129,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 87,
+            "target": 130,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 88,
+            "target": 89,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 88,
+            "target": 90,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 88,
+            "target": 91,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 88,
+            "target": 99,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 88,
+            "target": 128,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 88,
+            "target": 129,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 88,
+            "target": 130,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 88,
+            "target": 131,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 89,
+            "target": 90,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 89,
+            "target": 91,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 89,
+            "target": 99,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 89,
+            "target": 128,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 89,
+            "target": 129,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 89,
+            "target": 130,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 89,
+            "target": 131,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 90,
+            "target": 91,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 90,
+            "target": 102,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 90,
+            "target": 99,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 90,
+            "target": 128,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 90,
+            "target": 129,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 90,
+            "target": 130,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 90,
+            "target": 131,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 90,
+            "target": 132,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 90,
+            "target": 133,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 90,
+            "target": 134,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 90,
+            "target": 135,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 90,
+            "target": 136,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 90,
+            "target": 137,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 91,
+            "target": 99,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 91,
+            "target": 128,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 91,
+            "target": 130,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 91,
+            "target": 131,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 102,
+            "target": 132,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 102,
+            "target": 133,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 98,
+            "target": 130,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 99,
+            "target": 128,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 99,
+            "target": 129,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 99,
+            "target": 130,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 99,
+            "target": 131,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 128,
+            "target": 129,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 128,
+            "target": 130,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 129,
+            "target": 131,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 132,
+            "target": 133,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 132,
+            "target": 134,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 132,
+            "target": 135,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 132,
+            "target": 136,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 132,
+            "target": 137,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 133,
+            "target": 134,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 133,
+            "target": 135,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 133,
+            "target": 136,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 133,
+            "target": 137,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 134,
+            "target": 135,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 134,
+            "target": 136,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 134,
+            "target": 137,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 135,
+            "target": 136,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 135,
+            "target": 137,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 136,
+            "target": 137,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 115,
+            "target": 116,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 115,
+            "target": 138,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 115,
+            "target": 139,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 115,
+            "target": 140,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 115,
+            "target": 0,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 115,
+            "target": 141,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 115,
+            "target": 142,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 115,
+            "target": 143,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 115,
+            "target": 144,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 115,
+            "target": 145,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 115,
+            "target": 146,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 115,
+            "target": 147,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 115,
+            "target": 148,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 115,
+            "target": 149,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 115,
+            "target": 24,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 116,
+            "target": 138,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 116,
+            "target": 0,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 138,
+            "target": 139,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 138,
+            "target": 140,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 138,
+            "target": 141,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 138,
+            "target": 142,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 138,
+            "target": 143,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 138,
+            "target": 146,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 138,
+            "target": 149,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 138,
+            "target": 24,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 139,
+            "target": 140,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 139,
+            "target": 141,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 139,
+            "target": 142,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 139,
+            "target": 149,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 140,
+            "target": 141,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 140,
+            "target": 142,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 140,
+            "target": 143,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 140,
+            "target": 149,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 0,
+            "target": 143,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 0,
+            "target": 150,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 0,
+            "target": 23,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 0,
+            "target": 24,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 141,
+            "target": 142,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 141,
+            "target": 149,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 142,
+            "target": 149,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 143,
+            "target": 145,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 143,
+            "target": 146,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 143,
+            "target": 147,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 143,
+            "target": 148,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 143,
+            "target": 150,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 143,
+            "target": 24,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 144,
+            "target": 145,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 144,
+            "target": 146,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 144,
+            "target": 148,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 145,
+            "target": 146,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 145,
+            "target": 147,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 145,
+            "target": 150,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 146,
+            "target": 147,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 146,
+            "target": 148,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 146,
+            "target": 150,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 147,
+            "target": 150,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 41,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 17,
+            "target": 42,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 17,
+            "target": 7,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 119,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 45,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 46,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 47,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 17,
+            "target": 151,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 17,
+            "target": 152,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 17,
+            "target": 153,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 154,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 155,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 156,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 157,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 17,
+            "target": 158,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 17,
+            "target": 159,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 42,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 41,
+            "target": 7,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 41,
+            "target": 18,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 41,
+            "target": 119,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 41,
+            "target": 151,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 41,
+            "target": 152,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 41,
+            "target": 153,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 41,
+            "target": 154,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 41,
+            "target": 158,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 41,
+            "target": 159,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 42,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 42,
+            "target": 151,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 42,
+            "target": 158,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 7,
+            "target": 18,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 7,
+            "target": 151,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 7,
+            "target": 153,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 7,
+            "target": 154,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 7,
+            "target": 155,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 7,
+            "target": 156,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 7,
+            "target": 157,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 7,
+            "target": 158,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 7,
+            "target": 159,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 18,
+            "target": 45,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 18,
+            "target": 46,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 18,
+            "target": 47,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 18,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 18,
+            "target": 151,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 18,
+            "target": 152,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 18,
+            "target": 158,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 45,
+            "target": 46,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 45,
+            "target": 47,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 45,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 45,
+            "target": 151,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 45,
+            "target": 152,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 46,
+            "target": 47,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 46,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 46,
+            "target": 151,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 46,
+            "target": 152,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 47,
+            "target": 77,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 47,
+            "target": 151,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 47,
+            "target": 152,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 77,
+            "target": 151,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 77,
+            "target": 152,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 77,
+            "target": 158,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 151,
+            "target": 152,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 151,
+            "target": 153,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 151,
+            "target": 156,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 151,
+            "target": 157,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 151,
+            "target": 158,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 151,
+            "target": 159,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 153,
+            "target": 154,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 153,
+            "target": 155,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 153,
+            "target": 156,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 153,
+            "target": 157,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 153,
+            "target": 158,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 154,
+            "target": 155,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 154,
+            "target": 156,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 154,
+            "target": 157,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 155,
+            "target": 156,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 155,
+            "target": 157,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 156,
+            "target": 157,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 156,
+            "target": 158,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 157,
+            "target": 158,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 113,
+            "target": 160,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 113,
+            "target": 161,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 113,
+            "target": 162,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 113,
+            "target": 163,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 113,
+            "target": 164,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 113,
+            "target": 118,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 113,
+            "target": 21,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 113,
+            "target": 165,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 113,
+            "target": 166,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 113,
+            "target": 167,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 113,
+            "target": 117,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 113,
+            "target": 168,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 113,
+            "target": 54,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 113,
+            "target": 169,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 113,
+            "target": 170,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 113,
+            "target": 171,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 113,
+            "target": 172,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 160,
+            "target": 161,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 160,
+            "target": 162,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 160,
+            "target": 163,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 160,
+            "target": 164,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 160,
+            "target": 118,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 160,
+            "target": 21,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 160,
+            "target": 165,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 160,
+            "target": 166,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 160,
+            "target": 167,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 160,
+            "target": 117,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 160,
+            "target": 168,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 161,
+            "target": 162,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 161,
+            "target": 163,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 161,
+            "target": 164,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 161,
+            "target": 118,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 161,
+            "target": 21,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 161,
+            "target": 165,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 161,
+            "target": 166,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 161,
+            "target": 167,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 161,
+            "target": 117,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 161,
+            "target": 169,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 161,
+            "target": 170,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 161,
+            "target": 171,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 161,
+            "target": 172,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 162,
+            "target": 163,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 162,
+            "target": 164,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 162,
+            "target": 118,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 162,
+            "target": 21,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 162,
+            "target": 165,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 162,
+            "target": 166,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 162,
+            "target": 167,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 162,
+            "target": 117,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 163,
+            "target": 164,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 163,
+            "target": 118,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 163,
+            "target": 21,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 163,
+            "target": 165,
+            "value": 1,
+            "relation": "love"
+        },
+        {
+            "source": 163,
+            "target": 166,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 163,
+            "target": 167,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 163,
+            "target": 117,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 163,
+            "target": 169,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 163,
+            "target": 170,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 163,
+            "target": 171,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 163,
+            "target": 172,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 161,
+            "target": 54,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 164,
+            "target": 118,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 164,
+            "target": 21,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 164,
+            "target": 165,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 164,
+            "target": 166,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 164,
+            "target": 167,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 164,
+            "target": 117,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 164,
+            "target": 169,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 164,
+            "target": 170,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 164,
+            "target": 171,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 164,
+            "target": 172,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 118,
+            "target": 21,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 118,
+            "target": 166,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 21,
+            "target": 165,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 21,
+            "target": 117,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 21,
+            "target": 168,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 21,
+            "target": 169,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 21,
+            "target": 170,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 21,
+            "target": 171,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 21,
+            "target": 172,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 165,
+            "target": 166,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 165,
+            "target": 167,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 165,
+            "target": 117,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 165,
+            "target": 171,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 167,
+            "target": 117,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 167,
+            "target": 168,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 117,
+            "target": 168,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 117,
+            "target": 169,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 117,
+            "target": 170,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 117,
+            "target": 171,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 117,
+            "target": 172,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 162,
+            "target": 170,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 169,
+            "target": 170,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 169,
+            "target": 171,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 169,
+            "target": 172,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 170,
+            "target": 171,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 170,
+            "target": 172,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 171,
+            "target": 172,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 65,
+            "target": 173,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 65,
+            "target": 174,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 65,
+            "target": 175,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 65,
+            "target": 176,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 65,
+            "target": 177,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 173,
+            "target": 174,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 173,
+            "target": 175,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 173,
+            "target": 176,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 173,
+            "target": 177,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 174,
+            "target": 175,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 174,
+            "target": 176,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 174,
+            "target": 177,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 175,
+            "target": 176,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 175,
+            "target": 177,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 176,
+            "target": 177,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 0,
+            "target": 178,
+            "value": 5,
+            "relation": "creation"
+        },
+        {
+            "source": 179,
+            "target": 68,
+            "value": 6,
+            "relation": "enemy"
+        },
+        {
+            "source": 180,
+            "target": 16,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 180,
+            "target": 36,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 180,
+            "target": 14,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 180,
+            "target": 0,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 16,
+            "target": 82,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 154,
+            "target": 84,
+            "value": 2,
+            "relation": "family"
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 10,
+            "target": 3,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 10,
+            "target": 7,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 10,
+            "target": 17,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 10,
+            "target": 6,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 10,
+            "target": 8,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 10,
+            "target": 1,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 115,
+            "target": 113,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 181,
+            "target": 0,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 181,
+            "target": 0,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 181,
+            "target": 3,
+            "value": 4,
+            "relation": "work"
+        },
+        {
+            "source": 181,
+            "target": 50,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 181,
+            "target": 0,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 181,
+            "target": 1,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 181,
+            "target": 17,
+            "value": 3,
+            "relation": "friend"
+        },
+        {
+            "source": 181,
+            "target": 3,
+            "value": 3,
+            "relation": "friend"
+        }
+    ]
+}
